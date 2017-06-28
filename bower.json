@@ -1,0 +1,23 @@
+{
+  "name": "things-license-checker",
+  "homepage": "https://github.com/ThingsElements/things-license-checker",
+  "authors": [
+    "Hatio Lab. <heartyoh@hatiolab.com>"
+  ],
+  "description": "things framework license check로직이 포함된 컴포넌트",
+  "main": "things-license-checker.js",
+  "keywords": [
+    "things",
+    "license",
+    "checker"
+  ],
+  "license": "EULA",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
