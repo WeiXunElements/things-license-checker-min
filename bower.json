@@ -1,5 +1,6 @@
 {
   "name": "things-license-checker-min",
+  "version": "v2.0.0",
   "homepage": "https://github.com/ThingsElements/things-license-checker",
   "authors": [
     "Hatio Lab. <heartyoh@hatiolab.com>"
