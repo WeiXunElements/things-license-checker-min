@@ -6,7 +6,7 @@
     "Hatio Lab. <heartyoh@hatiolab.com>"
   ],
   "description": "things framework license 유효성 체크 컴포넌트",
-  "main": "things-license-checker-min.js",
+  "main": "things-license-checker.min.js",
   "keywords": [
     "things",
     "license",
