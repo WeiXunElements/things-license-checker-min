@@ -1,7 +1,7 @@
 {
   "name": "things-license-checker-min",
-  "version": "v2.0.3",
-  "homepage": "https://github.com/ThingsElements/things-license-checker",
+  "version": "2.2.0",
+  "homepage": "http://elements.hatiolab.com/",
   "authors": [
     "Hatio Lab. <heartyoh@hatiolab.com>"
   ],
@@ -12,7 +12,7 @@
     "license",
     "checker"
   ],
-  "license": "EULA",
+  "license": "http://license.hatiolab.com/EULA",
   "private": true,
   "ignore": [
     "**/.*",
