@@ -1,9 +1,8 @@
 {
   "name": "things-license-checker-min",
-  "version": "v2.5.3",
-  "homepage": "http://elements.hatiolab.com/",
+  "version": "v2.5.4",
   "authors": [
-    "Hatio Lab. <heartyoh@hatiolab.com>"
+    "Shenzhen Weixun"
   ],
   "description": "things framework license 유효성 체크 컴포넌트",
   "main": "things-license-checker.min.js",
@@ -12,7 +11,6 @@
     "license",
     "checker"
   ],
-  "license": "http://license.hatiolab.com/EULA",
   "private": true,
   "ignore": [
     "**/.*",
